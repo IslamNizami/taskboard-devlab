@@ -1,6 +1,5 @@
 package com.islamnizami.taskboarddevlab.security;
 
-import com.islamnizami.taskboarddevlab.service.CustomUserDetailsService;
 import com.islamnizami.taskboarddevlab.service.JwtService;
 import jakarta.servlet.FilterChain;
 import jakarta.servlet.ServletException;

@@ -2,7 +2,7 @@ package com.islamnizami.taskboarddevlab.service;
 
 import com.islamnizami.taskboarddevlab.exception.BadRequestException;
 import com.islamnizami.taskboarddevlab.exception.ResourceNotFoundException;
-import com.islamnizami.taskboarddevlab.mapper.LabelMapper;
+import com.islamnizami.taskboarddevlab.model.mapper.LabelMapper;
 import com.islamnizami.taskboarddevlab.model.dto.LabelRequestDTO;
 import com.islamnizami.taskboarddevlab.model.dto.LabelResponseDTO;
 import com.islamnizami.taskboarddevlab.model.entity.Label;

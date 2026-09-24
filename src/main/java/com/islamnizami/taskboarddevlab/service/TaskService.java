@@ -2,7 +2,7 @@ package com.islamnizami.taskboarddevlab.service;
 
 import com.islamnizami.taskboarddevlab.exception.ResourceNotFoundException;
 import com.islamnizami.taskboarddevlab.filter.TaskSpecification;
-import com.islamnizami.taskboarddevlab.mapper.TaskMapper;
+import com.islamnizami.taskboarddevlab.model.mapper.TaskMapper;
 import com.islamnizami.taskboarddevlab.model.dto.TaskRequestDTO;
 import com.islamnizami.taskboarddevlab.model.dto.TaskResponseDTO;
 import com.islamnizami.taskboarddevlab.model.entity.Label;

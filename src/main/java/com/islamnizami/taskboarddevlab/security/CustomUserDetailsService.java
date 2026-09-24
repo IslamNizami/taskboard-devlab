@@ -1,8 +1,7 @@
-package com.islamnizami.taskboarddevlab.service;
+package com.islamnizami.taskboarddevlab.security;
 
 import com.islamnizami.taskboarddevlab.model.entity.User;
 import com.islamnizami.taskboarddevlab.repository.UserRepository;
-import com.islamnizami.taskboarddevlab.security.CustomUserDetails;
 import lombok.RequiredArgsConstructor;
 import org.springframework.security.core.userdetails.UserDetailsService;
 import org.springframework.security.core.userdetails.UsernameNotFoundException;

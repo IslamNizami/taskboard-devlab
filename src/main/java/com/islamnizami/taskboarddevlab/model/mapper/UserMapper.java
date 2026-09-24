@@ -1,4 +1,4 @@
-package com.islamnizami.taskboarddevlab.mapper;
+package com.islamnizami.taskboarddevlab.model.mapper;
 
 
 import com.islamnizami.taskboarddevlab.model.dto.RegisterRequestDTO;

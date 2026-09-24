@@ -1,7 +1,7 @@
 package com.islamnizami.taskboarddevlab.service;
 
 import com.islamnizami.taskboarddevlab.exception.BadRequestException;
-import com.islamnizami.taskboarddevlab.mapper.UserMapper;
+import com.islamnizami.taskboarddevlab.model.mapper.UserMapper;
 import com.islamnizami.taskboarddevlab.model.dto.LoginRequestDTO;
 import com.islamnizami.taskboarddevlab.model.dto.LoginResponseDTO;
 import com.islamnizami.taskboarddevlab.model.dto.RegisterRequestDTO;
